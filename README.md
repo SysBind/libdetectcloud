@@ -7,7 +7,7 @@ http.Client timeout is set to `300ms`. Sometimes hitting the metadata service to
 
     import (
     	"fmt"
-    	"gitlab.com/taskfitio/lib/detectcloud"
+    	"github.com/SysBind/libdetectcloud"
     )
 
     func main() {
