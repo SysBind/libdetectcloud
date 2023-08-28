@@ -1,3 +1,3 @@
 module github.com/SysBind/libdetectcloud
 
-go 1.21.0
+go 1.20.7
